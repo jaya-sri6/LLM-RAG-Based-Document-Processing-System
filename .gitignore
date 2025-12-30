@@ -1,0 +1,5 @@
+venv/
+node_modules/
+backend.log
+npm_output.log
+__pycache__/
