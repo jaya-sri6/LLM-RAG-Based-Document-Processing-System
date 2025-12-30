@@ -1,4 +1,4 @@
-# LLM-Based Document Processing System
+# LLM(RAG)-Based Document Processing System
 
 ## Overview
 This project is an LLM-powered system for processing and querying insurance policy documents. It allows users to upload PDF documents, extract text, generate embeddings, and ask questions about the content using a Retrieval-Augmented Generation (RAG) pipeline. The system is built with a FastAPI backend for document processing and a React frontend for user interaction.
